@@ -1,0 +1,3 @@
+data set: TU Darmstadt Pedestrian Dataset
+N_PruneSet=1500
+maxDrop=0.01,initialThresh=0,threshStep=0.02
